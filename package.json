@@ -1,0 +1,24 @@
+{
+  "name": "webCrawler",
+  "version": "0.0.0",
+  "description": "a node web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KiaFathi/webCrawler.git"
+  },
+  "author": "Kia Fathi <kiafathi@me.com> (http://kiafathi.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiaFathi/webCrawler/issues"
+  },
+  "homepage": "https://github.com/KiaFathi/webCrawler",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.9.7",
+    "request": "^2.45.0"
+  }
+}
